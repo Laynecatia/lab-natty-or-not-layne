@@ -6,10 +6,10 @@ Este ebook descreve os 5 principais pontos turisticos de Londres - Inglaterra, e
 ## 🤖 Tecnologias Utilizadas
  Foram usadas as seguintes tecnologias:
  * ChatGpt => Toda a criação do roteiro.
- * Gamma.app => E uma plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente.
+ * Gamma.app => E uma plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente. Todo o layout e as fotos foram criadas nessa plataforma.
 
 ## 🧐 Processo de Criação
-A partir da minha ideia de criar um ebook sobre os 5 pontos turisticos mais importantes de Londres, primeiro eu pedi ao chatGpt pra criar o roteiro, depois utilizei a plataforma gamma.app para criar o layout.
+A partir da minha ideia de criar um ebook sobre os 5 pontos turisticos mais importantes de Londres, primeiro eu pedi ao chatGpt pra criar o roteiro, depois utilizei a plataforma gamma.app para criar o layout e as fotos.
 
 ## 🚀 Resultados
 O resultado foi fantástico! Pois somente com essas duas IAs e em poucos minutos pude criar um ebook incrível listando os 5 pontos turisticos de Londres. 
