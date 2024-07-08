@@ -1,7 +1,7 @@
 Desvendando os Segredos de Londres: Um Guia aos 5 Pontos Turísticos Imperdíveis
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook descreve os 5 principais pontos turisticos de Londres - Inglaterra, e fornece algumas dicas praticas.
 
 ## 🤖 Tecnologias Utilizadas
  Foram usadas as seguintes tecnologias:
